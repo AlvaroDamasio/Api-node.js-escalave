@@ -26,7 +26,4 @@
  4. comando `npm start`
  
 - [Entendendo a Estrutura do projeto](./ESTRUCTURE.MD)
-<<<<<<< HEAD
-=======
 
->>>>>>> 7a566c636dc99f975b8905a5ff57622aaf3e2a9f
